@@ -1094,7 +1094,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "Send generated raport (n_dolinska@wp.pl)",
+                            "label": "Send generated raport (finance-team@finserve.com)",
                             "data": {
                                 "scoped": "true",
                                 "connection": "google-email"

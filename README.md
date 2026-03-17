@@ -27,7 +27,6 @@ The core Python script (`main.py`) can be run locally to demonstrate the data pr
    ```bash
    pip install -r requirements.txt
 
-
 3. To run the script locally and generate the report:
    ```bash
    python main.py
